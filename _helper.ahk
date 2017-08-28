@@ -1,6 +1,6 @@
 ;========== [AHK] ==========
 ::'reload::
-	Run, D:\OneDrive\autohotkey\main.ahk
+	Run, C:\CJ\ahk-cj\main.ahk
 	Sleep 300
 	Send {Enter}
 	Return
